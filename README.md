@@ -1,0 +1,1 @@
+This Github Repo contains Two folder both folder contain POC of cron jobs concept. Node folder contain cron jobs implemented in node.js backend and Laravel folder contain implementing cron jobs in laravel framework.
